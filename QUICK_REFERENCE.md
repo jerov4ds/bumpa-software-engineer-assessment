@@ -142,7 +142,7 @@ Creates:
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@example.com | password |
-| Customer | customer@example.com | password |
+| Customer | john@example.com | password |
 
 ## 📈 Project Stats
 

@@ -45,7 +45,7 @@ Once all services are running:
 - Password: `password`
 
 **Customer Account:**
-- Email: `customer@example.com`
+- Email: `john@example.com`
 - Password: `password`
 
 ## 🛠️ Local Development Setup

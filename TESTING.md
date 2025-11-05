@@ -189,7 +189,7 @@ This runs:
 
 **Users Created:**
 - Admin: admin@example.com / password
-- Customer: customer@example.com / password
+- Customer: john@example.com / password
 - 5 additional test users
 
 **Achievements Created:**

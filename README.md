@@ -61,7 +61,7 @@ This project implements a robust loyalty program with:
 
 4. **Test credentials**
    - Admin: `admin@example.com` / `password`
-   - Customer: `customer@example.com` / `password`
+   - Customer: `john@example.com` / `password`
 
 ## 📁 Project Structure
 
